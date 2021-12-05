@@ -1,1 +1,1 @@
-"This is File B-this is branch version" 
+"This is File B-this is branch version-Merge1" 
